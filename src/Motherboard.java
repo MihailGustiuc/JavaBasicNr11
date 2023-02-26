@@ -1,6 +1,6 @@
 public class Motherboard {
 
-public static USB something(){
+public static USB initialize(){
     return new USB();
 }
 
