@@ -1,5 +1,8 @@
 public class Motherboard {
-Motherboard motherboard = new Motherboard();
+
+public static USB something(){
+    return new USB();
+}
 
     static class USB {
 
